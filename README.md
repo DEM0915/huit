@@ -1,18 +1,21 @@
 # Jiyugaoka
-###犬と散歩する
+### 犬と散歩する
 
 <img align="center" src="jiyugaoka.png" width="100%"/>
 
 
 
-###Develop Tools
+### Develop Tools
 
 * Xcode version 7.2.1
 
 * openFrameworks 0.9.3
 
-###Platform
+### Platform
+
 * OS X El Capitan
 
-###Inspiration
+### Inspiration
+
 * Perfume
+
